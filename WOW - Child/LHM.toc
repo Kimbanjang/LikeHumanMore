@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: LHM
+## Notes: Like-Human More Addon for WOW
+## Author: Kimbanjang
+## SavedVariablesPerCharacter: vpcLHM
+## LoadOnDemand: 0

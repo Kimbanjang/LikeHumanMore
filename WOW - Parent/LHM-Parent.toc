@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: LHM-Parent
+## Notes: Sample code of Like-Human More
+## Author: Kimbanjang
+## SavedVariablesPerCharacter: vpcLHMP
+## LoadOnDemand: 1
+## RequiredDeps: LHM
